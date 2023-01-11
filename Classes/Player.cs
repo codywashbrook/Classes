@@ -26,7 +26,7 @@ namespace Classes
         {
             health -= hp;
 
-            Console.WriteLine("Player has taken .. " + hp + " damage");
+            Console.WriteLine(name + " has taken .. " + hp + " damage");
 
         }
 
